@@ -1,1 +1,9 @@
+/* Import GFonts*/
+@import url('https://fonts.googleapis.com/css?family=Crete+Round&display=swap');
 
+.from-div {
+  margin: 50px auto 50px;
+  padding: 25px 15px 10px 15px;
+  font-size: 1.1em;
+  font-family: 'Crete Round', serif;
+}
