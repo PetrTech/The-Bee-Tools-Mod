@@ -9,3 +9,7 @@
 form p {
   font-size: .89em;
 }
+
+.logout {
+  color: red;
+}
